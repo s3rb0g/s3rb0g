@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/s3rb0g/s3rb0g/main/Animated-Me.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/s3rb0g/s3rb0g/main/Animated-Me.png" width="300" height="300"/>
 </p>
 
 ---
