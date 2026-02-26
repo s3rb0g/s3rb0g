@@ -25,8 +25,8 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=s3rb0g&layout=compact&theme=tokyonight&langs_count=100" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=s3rb0g&layout=compact&theme=tokyonight&langs_count=100" /> -->
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
